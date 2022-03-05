@@ -1,0 +1,20 @@
+body {
+    background-color:#3d85c6;
+}
+
+p{
+	color: yellow;
+	font-size: 19px;
+}
+
+
+h1 {
+			padding: 16px;
+			text-align: center;
+			color: white;
+			font-size: 32px;
+			background: orange;
+	}
+
+
+

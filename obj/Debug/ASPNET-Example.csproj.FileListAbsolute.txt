@@ -1,0 +1,10 @@
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\ASPNET-Example.dll.config
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\ASPNET-Example.dll
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\ASPNET-Example.pdb
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\Newtonsoft.Json.dll
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\Newtonsoft.Json.xml
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\ASPNET-Example.csproj.CoreCompileInputs.cache
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\ASPNET-Example.csproj.CopyComplete
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\ASPNET-Example.dll
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\ASPNET-Example.pdb
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\ASPNET-Example.csproj.AssemblyReference.cache

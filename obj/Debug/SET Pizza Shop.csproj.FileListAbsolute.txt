@@ -1,0 +1,51 @@
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\bin\Newtonsoft.Json.dll
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\bin\Newtonsoft.Json.xml
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\obj\Debug\SET Pizza Shop.csproj.CoreCompileInputs.cache
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\obj\Debug\SET Pizza Shop.csproj.CopyComplete
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\bin\Pizza_Shop.dll.config
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\bin\Pizza_Shop.dll
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\bin\Pizza_Shop.pdb
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\obj\Debug\Pizza_Shop.dll
+C:\Users\College\source\repos\ASPNET-Example - Copy\Web Text Editor\obj\Debug\Pizza_Shop.pdb
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\Pizza_Shop.dll.config
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\Pizza_Shop.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\Pizza_Shop.pdb
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\Newtonsoft.Json.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\Newtonsoft.Json.xml
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\obj\Debug\SET Pizza Shop.csproj.AssemblyReference.cache
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\obj\Debug\SET Pizza Shop.csproj.CoreCompileInputs.cache
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\obj\Debug\SET Pizza Shop.csproj.CopyComplete
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\obj\Debug\Pizza_Shop.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\obj\Debug\Pizza_Shop.pdb
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\csc.exe
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\csc.exe.config
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\csc.rsp
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\csi.exe
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\csi.exe.config
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\csi.rsp
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Buffers.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Memory.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\vbc.exe
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\vbc.exe.config
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\vbc.rsp
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dek26\OneDrive\Desktop\ASPNET-Example - Copy\ASPNET-Example - Copy\SET Pizza Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

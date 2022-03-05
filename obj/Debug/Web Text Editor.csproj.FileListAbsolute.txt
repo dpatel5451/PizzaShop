@@ -1,0 +1,10 @@
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\Newtonsoft.Json.dll
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\Newtonsoft.Json.xml
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\Web Text Editor.csproj.AssemblyReference.cache
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\Web Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\Web Text Editor.csproj.CopyComplete
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\Web_TextEditor.dll.config
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\Web_TextEditor.dll
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\bin\Web_TextEditor.pdb
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\Web_TextEditor.dll
+C:\Users\College\source\repos\ASPNET-Example\ASPNET-Example\obj\Debug\Web_TextEditor.pdb
